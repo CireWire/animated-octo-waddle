@@ -19,7 +19,7 @@ git clone https://github.com/CireWire/animated-octo-waddle.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd diabetes-analysis
+cd animated-octo-waddle
 ```
 3. Install the required libraries (if not already installed):
 ```bash
