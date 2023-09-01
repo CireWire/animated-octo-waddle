@@ -10,7 +10,6 @@ The dataset used for this analysis contains information about diabetes-related h
 
 - `data/`: Contains the dataset used for the analysis.
 - `notebooks/`: Jupyter Notebook files for data analysis and clustering. Results and visualizations are included.
-- `results/`: Results and visualizations generated during the analysis.
 
 ## Usage
 
